@@ -1,9 +1,3 @@
 hello word
 hello python
-hello django
-hello zhang
-hello qian
-add one line
-gethub
-hello China
-puthon3
+
